@@ -1,5 +1,5 @@
 --- 
-name: lb1234
+name: lb12345
 namespace: com.citrix.adc.stylebooks
 version: "1.0"
 display-name: "HTTP/SSL LoadBalancing StyleBook"
